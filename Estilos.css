@@ -1,0 +1,96 @@
+.Grande{
+    display:block!important;
+    -webkit-transition:-webkit-transform 0.5s ease-out;
+    -moz-transition:-moz-transform 0.5s ease-out;
+    -o-transition:-o-transform 0.5s ease-out;
+    -ms-transition:-ms-transform 0.5s ease-out;
+    transition:transform 0.5s ease-out;
+    }
+    .Grande:hover{
+    -moz-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    -o-transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    transform: scale(2.2)
+    }
+
+.Mayor{
+    display:block!important;
+    -webkit-transition:-webkit-transform 0.5s ease-out;
+    -moz-transition:-moz-transform 0.5s ease-out;
+    -o-transition:-o-transform 0.5s ease-out;
+    -ms-transition:-ms-transform 0.5s ease-out;
+    transition:transform 0.5s ease-out;
+    }
+    .Mayor:hover{
+    -moz-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    -o-transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    transform: scale(2.2)
+    }
+
+.Enorme{
+    display:block!important;
+    -webkit-transition:-webkit-transform 0.5s ease-out;
+    -moz-transition:-moz-transform 0.5s ease-out;
+    -o-transition:-o-transform 0.5s ease-out;
+    -ms-transition:-ms-transform 0.5s ease-out;
+    transition:transform 0.5s ease-out;
+    }
+    .Enorme:hover{
+    -moz-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    -o-transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    transform: scale(2.2)
+    }
+
+.form {
+        background-color: rgb(110, 109, 109);
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+}
+
+h2 {
+    color: DodgerBlue;
+}
+
+p {
+    color: white; 
+}
+
+input {
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.cancelar {
+    padding: 10px 30px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 30px;
+    }
+
+.registrar {
+padding: 10px 30px;
+border: none;
+background-color: Gold;
+cursor: pointer;
+font-size: 15px;
+margin-top: 30px;
+}
+
+footer {
+    background-color: rgb(61, 60, 60);
+    color: white;
+    text-decoration: underline;
+    height:50px;
+    line-height:50px;
+    bottom:0;
+    left:0;
+    width:100%;
+}
